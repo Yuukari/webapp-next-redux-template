@@ -1,0 +1,22 @@
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0px auto;
+    padding: 16px 24px;
+}
+
+.container_size-large {
+    max-width: 960px;
+}
+
+.container_size-medium {
+    max-width: 720px;
+}
+
+.container_size-small {
+    max-width: 540px;
+}
